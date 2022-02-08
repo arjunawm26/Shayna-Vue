@@ -21,14 +21,14 @@ import PartnerShayna from '../components/PartnerShayna.vue';
 import FooterShayna from "../components/FooterShayna.vue";
 
 export default {
-  name: "Home",
+  name: "home",
   components: {
     HeaderShayna,
     HeroShayna,
-    FooterShayna,
     WomanShayna,
     GalleryShayna,
     PartnerShayna,
+    FooterShayna,
   },
 };
 </script>
